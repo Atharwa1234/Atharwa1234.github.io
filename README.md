@@ -1,7 +1,7 @@
 title: Welcome to Nobita's Homepage
 description: Feel free to view this page for my updates
 
-## Welcome to GitHub Pages
+## Welcome to Nobita's Home
 
 You can use the [editor on GitHub](https://github.com/Atharwa1234/Atharwa1234.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
