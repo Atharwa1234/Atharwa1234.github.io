@@ -1,5 +1,4 @@
-title: Welcome to Nobita's Homepage
-description: Feel free to view this page for my updates
+
 
 ## Welcome to Nobita's Home
 
